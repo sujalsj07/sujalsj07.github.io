@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 01 Aug 2017 11:25:32 at http://freetemplatesdownload.in/themes/mannat/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://freetemplatesdownload.in/themes/mannat/ -O1 "C:\My Web Sites 2\sujal" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:27:26	Error: 	"Not Found" (404) at link freetemplatesdownload.in/themes/mannat/fonts/Pe-icon-7-stroke.svg?d7yf1v (from freetemplatesdownload.in/themes/mannat/css/pe-icon-7-stroke.css)
+11:27:26	Error: 	"Not Found" (404) at link freetemplatesdownload.in/themes/mannat/css/grabbing.png (from freetemplatesdownload.in/themes/mannat/css/owl.carousel.css)
+11:27:26	Error: 	"Not Found" (404) at link freetemplatesdownload.in/themes/mannat/css/AjaxLoader.gif (from freetemplatesdownload.in/themes/mannat/css/owl.theme.css)
+11:27:26	Error: 	"Not Found" (404) at link freetemplatesdownload.in/themes/mannat/css/ytp-regular.eot (from freetemplatesdownload.in/themes/mannat/css/YTPlayer.css)
+11:27:26	Error: 	"Not Found" (404) at link freetemplatesdownload.in/themes/mannat/css/ytp-regular.ttf (from freetemplatesdownload.in/themes/mannat/css/YTPlayer.css)
+11:27:26	Error: 	"Not Found" (404) at link freetemplatesdownload.in/themes/mannat/images/raster.png (from freetemplatesdownload.in/themes/mannat/css/YTPlayer.css)
+11:27:26	Error: 	"Bad Request" (400) at link freetemplatesdownload.in/themes/mannat/images/raster@2x.png (from freetemplatesdownload.in/themes/mannat/css/YTPlayer.css)
+11:27:26	Error: 	"Not Found" (404) at link freetemplatesdownload.in/themes/mannat/images/raster_dot.png (from freetemplatesdownload.in/themes/mannat/css/YTPlayer.css)
+11:27:26	Error: 	"Bad Request" (400) at link freetemplatesdownload.in/themes/mannat/images/raster_dot@2x.png (from freetemplatesdownload.in/themes/mannat/css/YTPlayer.css)
+11:27:35	Error: 	"Not Found" (404) at link freetemplatesdownload.in/themes/mannat/Popover requires tooltip.js (from freetemplatesdownload.in/themes/mannat/js/bootstrap.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 3 seconds : 72 links scanned, 61 files written (3701372 bytes overall) [3665022 bytes received at 29796 bytes/sec], 84327 bytes transferred using HTTP compression in 11 files, ratio 20%, 6.0 requests per connection
+(10 errors, 0 warnings, 0 messages)
